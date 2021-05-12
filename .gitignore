@@ -1,8 +1,11 @@
 # Created by https://www.gitignore.io/api/eclipse,java,maven
-##Frontend##
 
+
+##SPA Frontend##
 ui.frontend/node_modules
 .ui.frontend/node_modules
+ui.frontend/node_modules/
+.ui.frontend/node_modules/
 
 ### Eclipse ###
 *.pydevproject
