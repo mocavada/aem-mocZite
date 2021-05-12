@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/moczite" mode="merge"/>
+    <filter root="/content/moczite" mode="merge"/>
+    <filter root="/content/dam/moczite" mode="merge"/>
+    <filter root="/content/experience-fragments/moczite" mode="merge"/>
+</workspaceFilter>
